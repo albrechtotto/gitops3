@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     matchLabels:
-      app: guestbook11
+      app: guestbook
   template:
     metadata:
       labels:
