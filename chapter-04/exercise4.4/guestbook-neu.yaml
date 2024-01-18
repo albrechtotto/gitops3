@@ -6,7 +6,7 @@ spec:
   selector:
     matchLabels:
       app: guestbook
-  template:3333
+  template:
     metadata:
       labels:
         app: guestbook
