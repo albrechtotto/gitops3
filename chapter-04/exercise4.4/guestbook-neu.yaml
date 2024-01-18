@@ -11,7 +11,7 @@ spec:
       labels:
         app: guestbook
     spec:
-      containers:
+      containers:2222
       - name: guestbook
         image: acme.com/guestbook:nnn
 
