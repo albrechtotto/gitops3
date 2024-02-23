@@ -6,3 +6,5 @@ test merge 2-1
 test 345
 
 test 4567
+
+test 3456
